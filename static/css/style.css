@@ -37,7 +37,7 @@ button {
     font-size: 1.8rem;
     font-weight: 600;
     background: white;
-    color: #292A2D;
+    color: #cc6e29;
     border: 2px solid white;
     border-radius: 4px;
     transition: all .2s;
@@ -63,7 +63,7 @@ a:hover img {
 }
 .header {
     color: white;
-    background: linear-gradient(20deg, #40577F,#292A2D);
+    background: linear-gradient(20deg, #eacd3b, #cc6e29);
 }
 .header h2{
     border:none;
